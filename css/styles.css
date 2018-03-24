@@ -2,12 +2,23 @@
 	background-image: url("../img/backgrounds/landing.jpg");
 }
 .green{
-	float: right;
+	
 	cursor: pointer;
 	color: '#F15429';
 }
 .me{
-	float: center;
 	cursor: pointer;
 	color: '#F15429';
+}
+.blue{
+	
+	cursor: pointer;
+	color: '#F15429';
+}
+.red{
+    text-align: center;
+}
+.row{
+	float: right;
+	margin: 0px;
 }
