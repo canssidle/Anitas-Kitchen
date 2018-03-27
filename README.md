@@ -9,7 +9,7 @@ This website is about modifiying Anita's resturant.
 *link:https://github.com/canssidle/Anitas-Kitchen.git
 ## Known Bugs
 *No bugs
-*All issues have been resolved
+*All issues have been resolved.
 ## Technologies Used
 *HTML
 *CSS
